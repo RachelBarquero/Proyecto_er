@@ -9,14 +9,14 @@ import java.util.StringTokenizer;
 
 public class Principal {
 
-    public static Listas l = new Listas();
+    /*public static Listas l = new Listas();
     public static String[][] asientos = new String[15][6];
     public static ArrayList<String> usuarios = new ArrayList<>();
     public static ArrayList<String> lugares = new ArrayList<>();
     public static ArrayList<String> terminales = new ArrayList<>();
     public static ArrayList<String> numterminales = new ArrayList<>();
     public static ArrayList<String> rutas = new ArrayList<>();
-   public static ArrayList<String> unidades = new ArrayList<>();
+   */public static ArrayList<String> unidades = new ArrayList<>();
    
     public static void main(String[] args) {
 
