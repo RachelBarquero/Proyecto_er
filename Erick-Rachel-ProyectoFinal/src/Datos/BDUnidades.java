@@ -10,7 +10,8 @@ import javax.swing.JOptionPane;
 public class BDUnidades {
     
     public int id_rutas=1;
-    public void insertarUnidad_en_archivo(String unidad) {
+    public int ff = 0;
+  /*  public void insertarUnidad_en_archivo(String unidad) {
         leer_archivo_unidad();
         try {
             File archivo = new File("Unidad.txt");
@@ -22,7 +23,9 @@ public class BDUnidades {
         } catch (Exception e) {
             System.out.println("Error al escribir en el archivo" + e);
         }
-    }
+    }*/
+    public void x(){}
+    
     public void leer_archivo_unidad(){
          try {
             int cont = 1;
@@ -53,5 +56,6 @@ public class BDUnidades {
                     "Mensaje de error", JOptionPane.ERROR_MESSAGE);
         }
     }
+      
    
 }
