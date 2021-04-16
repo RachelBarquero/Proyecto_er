@@ -1,0 +1,14 @@
+ID terminal: 1
+56|Plaza San Carlos|San Carlos|Terminal 1
+ID terminal: 2
+Plaza SC|San Carlos|Terminal 1
+ID terminal: 3
+San Carlos |Limon|Terminal 2
+ID terminal: 4
+|San Jose|Terminal 1
+ID terminal: 5
+SC|San Carlos|Terminal 1
+ID terminal: 6
+SC|San Carlos|Terminal 1
+ID terminal: 7
+Plaza SC|San Carlos|Terminal 2
